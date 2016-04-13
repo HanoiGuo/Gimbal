@@ -23,7 +23,8 @@ namespace Monocle
        public void Run()
        {
            beamGage = new AutomatedBeamGage("ClientOne", false);
-           
+
+           beamGage.Instance.Shutdown();
        }
     }
 }
