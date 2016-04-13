@@ -24,7 +24,7 @@ namespace Monocle
        {
            beamGage = new AutomatedBeamGage("ClientOne", false);
 
-           beamGage.Instance.Shutdown();
+           //beamGage.Instance.Shutdown();
        }
     }
 }
