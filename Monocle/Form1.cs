@@ -44,7 +44,7 @@ namespace Monocle
         List<double> PowerMeterData = new List<double>();//Power meter的power
         int iBeamProfilerExp = 0;  //BeamProfiler的曝光时间
   
-
+          
 
         public Form1()
         {
